@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal">
+
+    <com.moriarty.morimvcandroid.widget.TabBar_Mains
+        android:id="@+id/recommend_mains"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        app:icon="@drawable/tebbar_mains_news"
+        app:name="@string/news">
+    </com.moriarty.morimvcandroid.widget.TabBar_Mains>
+
+    <com.moriarty.morimvcandroid.widget.TabBar_Mains
+        android:id="@+id/cityfinder_mains"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        app:icon="@drawable/tebbar_mains_wechat"
+        app:name="@string/wechat">
+    </com.moriarty.morimvcandroid.widget.TabBar_Mains>
+
+
+    <com.moriarty.morimvcandroid.widget.TabBar_Mains
+        android:id="@+id/findtravel_mains"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        app:icon="@drawable/tebbar_mains_find"
+        app:name="@string/find">
+    </com.moriarty.morimvcandroid.widget.TabBar_Mains>
+
+    <com.moriarty.morimvcandroid.widget.TabBar_Mains
+        android:id="@+id/me_mains"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        app:icon="@drawable/tebbar_mains_my"
+        app:name="@string/my">
+    </com.moriarty.morimvcandroid.widget.TabBar_Mains>
+</LinearLayout>
