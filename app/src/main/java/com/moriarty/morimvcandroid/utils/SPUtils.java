@@ -7,12 +7,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.Map;
 
-/*************************************************************
- * Created by OCN.Yang           * * * *   * * * *   *     * *
- * Time:2016/10/11 17:19         *     *   *         * *   * *
- * Email address:yangocn@163.com *     *   *         *   * * *
- * Web site:www.ocnyang.com      * * * *   * * * *   *     * *
- *************************************************************/
+
 
 
 public class SPUtils {

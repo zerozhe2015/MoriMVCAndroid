@@ -33,7 +33,7 @@
 
     <!--SlidingLayout background-->
     <string name="sldinglayout_bg_power_info">author site: www.ocnyang.com</string>
-    <string name="sldinglayout_bg_developer_info">©2014 - 2017  Developed by OCN.Yang</string>
+    <string name="sldinglayout_bg_developer_info">©2014 - 2017  Developed by Moriarty</string>
     <string name="recommend">推荐</string>
 
     <!--Remove or change this placeholder text -->
@@ -221,11 +221,11 @@
     <string name="statement_qq">小秋魔盒是一款使用完全免费的应用，是个人闲余时间因喜好开发并通过网络分享给大家的非商业性的应用，如果用户在使用过程中发现收费的地方或者存在收费才能使用的功能请举报给作者。同时本应用的数据，来自聚合数据平台、和风天气等平台的免费开放API； 相关功能来自各个第三方开放平台；开发中使用大量开源框架，详情查看“开源许可”。\n\n
 	小秋魔盒内部使用的图标或图片，大多来自网络免费资源，如果发现存在侵权的资源，请及时联系作者，作者会及时在后续版本中去除。本着本软件从不用于商业用途，对于可能造成的侵权只付采取相应措施的责任，不负任何法律相关的责任。</string>
 
-    <string name="statement_syqhzscq">此应用及一切属于本应用的所有相关的知识产权、所有权等权利都属于 OCN.Yang 个人永久所有，在未事先获得 OCN.Yang 书面同意的情况下，你不应：\n
+    <string name="statement_syqhzscq">此应用及一切属于本应用的所有相关的知识产权、所有权等权利都属于 Moriarty ß个人永久所有，在未事先获得 Moriarty 书面同意的情况下，你不应：\n
         \t（Ⅰ）复制、租赁、出售、转让、分配、再授权、分解、逆向工程或反编译、修改或变更任何部分或全部的本应用；\t\n
         \t（Ⅱ）以虚假身份或第三方身份使用本应用;\t\n
         \t（Ⅲ）出售或以其他方式利用本应用获利；\t\n
-        \t（Ⅳ）行使其他损害 OCN.Yang 利益的行为。\t</string>
+        \t（Ⅳ）行使其他损害 Moriarty 利益的行为。\t</string>
     <string name="statement_mail">(以上是本协议的全部内容)基于本应用或本协议及相关协议、规则的任何问题，您可以随时邮件联系我们，邮箱地址：ocnyang@gmail.com</string>
     <string name="title_activity_about_me">关于小秋魔盒</string>
     <string name="statement_import">\t上面的协议什么的都是一些没用的话，从这里开始才是重点，才是重点，重点，重要的话说三遍：\t\n\n

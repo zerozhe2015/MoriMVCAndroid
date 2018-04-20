@@ -1,11 +1,6 @@
 package com.moriarty.morimvcandroid.model.entities.textjoke;
 
-/*******************************************************************
- *    * * * *   * * * *   *     *       Created by OCN.Yang
- *    *     *   *         * *   *       Time:2017/3/17 17:23.
- *    *     *   *         *   * *       Email address:ocnyang@gmail.com
- *    * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
+
 
 
 public class QueryTel {

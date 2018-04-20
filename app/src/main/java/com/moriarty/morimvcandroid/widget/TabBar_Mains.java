@@ -13,12 +13,6 @@ import android.widget.TextView;
 import com.moriarty.morimvcandroid.R;
 
 
-/*************************************************************
- * Created by OCN.Yang           * * * *   * * * *   *     * *
- * Time:2016/11/24 10:46         *     *   *         * *   * *
- * Email address:yangocn@163.com *     *   *         *   * * *
- * Web site:www.ocnyang.com      * * * *   * * * *   *     * *
- *************************************************************/
 
 
 public class TabBar_Mains extends LinearLayout {

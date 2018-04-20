@@ -2,12 +2,7 @@ package com.moriarty.morimvcandroid.model.entities.constellation;
 
 import java.util.List;
 
-/*******************************************************************
- *    * * * *   * * * *   *     *       Created by OCN.Yang
- *    *     *   *         * *   *       Time:2017/3/20 11:25.
- *    *     *   *         *   * *       Email address:ocnyang@gmail.com
- *    * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
+
 
 
 public class YearConstellation extends RootConstellation {

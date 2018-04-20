@@ -10,13 +10,6 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-/*******************************************************************
- *    * * * *   * * * *   *     *       Created by OCN.Yang
- *    *     *   *         * *   *       Time:2017/3/23 15:49.
- *    *     *   *         *   * *       Email address:ocnyang@gmail.com
- *    * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
-
 
 public class HolidaysManager {
     Map<String, String> mDateMap;

@@ -11,12 +11,7 @@ import org.greenrobot.greendao.query.QueryBuilder;
 
 import java.util.List;
 
-/*******************************************************************
- * * * * *   * * * *   *     *       Created by OCN.Yang
- * *     *   *         * *   *       Time:2017/2/28 16:12.
- * *     *   *         *   * *       Email address:ocnyang@gmail.com
- * * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
+
 
 
 public class CategoryDao {

@@ -9,12 +9,7 @@ import com.moriarty.morimvcandroid.module.news_category.CategoryEntity;
 import java.util.ArrayList;
 import java.util.List;
 
-/*******************************************************************
- * * * * *   * * * *   *     *       Created by OCN.Yang
- * *     *   *         * *   *       Time:2017/2/23 15:53.
- * *     *   *         *   * *       Email address:ocnyang@gmail.com
- * * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
+
 
 
 public class CategoryManager {
