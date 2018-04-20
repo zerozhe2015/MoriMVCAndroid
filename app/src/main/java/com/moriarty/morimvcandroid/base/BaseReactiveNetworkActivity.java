@@ -11,12 +11,6 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Action1;
 import rx.schedulers.Schedulers;
 
-/*************************************************************
- * Created by OCN.Yang           * * * *   * * * *   *     * *
- * Time:2016/10/13 17:10         *     *   *         * *   * *
- * Email address:yangocn@163.com *     *   *         *   * * *
- * Web site:www.ocnyang.com      * * * *   * * * *   *     * *
- *************************************************************/
 
 /**
  * 适用于：

@@ -25,7 +25,7 @@ public class BaseApplication extends Application {
 
     public static final String APP_ID = "2882303761517567158";
     public static final String APP_KEY = "5951756743158";
-    public static final String TAG = "com.ocnyang.qbox.app";
+    public static final String TAG = "com.moriarty.morimvcandroid";
 
     private static BaseApplication mInstance;
     private static MainsActivity sMainActivity = null;
@@ -57,7 +57,7 @@ public class BaseApplication extends Application {
 //        LeakCanary.install(this);
 
         /*Logger初始化*/
-        Logger.init("OCN_Yang");
+        Logger.init("Moriarty_zero");
 
 //        initImageLoader();
 

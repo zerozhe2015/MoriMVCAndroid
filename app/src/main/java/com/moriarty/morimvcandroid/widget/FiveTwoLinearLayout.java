@@ -8,12 +8,6 @@ import android.widget.LinearLayout;
 import com.moriarty.morimvcandroid.utils.PixelUtil;
 
 
-/*******************************************************************
- *    * * * *   * * * *   *     *       Created by OCN.Yang
- *    *     *   *         * *   *       Time:2017/7/12 17:16.
- *    *     *   *         *   * *       Email address:ocnyang@gmail.com
- *    * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
 
 
 public class FiveTwoLinearLayout extends LinearLayout {

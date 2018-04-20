@@ -5,12 +5,7 @@ import android.os.Parcelable;
 
 import java.util.List;
 
-/*******************************************************************
- *    * * * *   * * * *   *     *       Created by OCN.Yang
- *    *     *   *         * *   *       Time:2017/4/6 09:51.
- *    *     *   *         *   * *       Email address:ocnyang@gmail.com
- *    * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
+
 
 
 public class City implements Parcelable {

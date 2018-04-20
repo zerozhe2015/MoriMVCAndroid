@@ -38,10 +38,13 @@
         <activity
             android:name=".module.mains.MainsActivity"
             android:launchMode="singleTask"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".module.start.welcome.WelcomeActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".module.news_category.CategoryActivity"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>

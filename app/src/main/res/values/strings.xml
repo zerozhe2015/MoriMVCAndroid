@@ -62,7 +62,7 @@
     <string name="news_category">新闻频道</string>
     <string name="set_success">设置成功</string>
     <string name="news">资讯</string>
-    <string name="wechat">微信精选</string>
+    <string name="wechat">精选</string>
     <string name="load_more_error">加载更多数据失败！</string>
     <string name="title_activity_we_chat_details">WeChatDetailsActivity</string>
     <string name="large_text">

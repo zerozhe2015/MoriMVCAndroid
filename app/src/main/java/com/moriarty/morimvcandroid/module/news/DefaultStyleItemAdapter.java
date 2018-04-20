@@ -15,13 +15,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
-/*******************************************************************
- * * * * *   * * * *   *     *       Created by OCN.Yang
- * *     *   *         * *   *       Time:2017/2/16 10:15.
- * *     *   *         *   * *       Email address:ocnyang@gmail.com
- * * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
-
 
 public class DefaultStyleItemAdapter extends BaseQuickAdapter<WechatItem.ResultBean.ListBean, BaseViewHolder> {
     boolean isNotLoad;
@@ -36,12 +29,13 @@ public class DefaultStyleItemAdapter extends BaseQuickAdapter<WechatItem.ResultB
         super(layoutResId, data);
     }
 
-    public DefaultStyleItemAdapter(int layoutResId, boolean isNotLoadImg, int imgWidth, int imgHeight){
+    public DefaultStyleItemAdapter(int layoutResId, boolean isNotLoadImg, int imgWidth, int imgHeight) {
         super(layoutResId);
         isNotLoad = isNotLoadImg;
         mImgWidth = imgWidth;
         mImgHeight = imgHeight;
     }
+
     @Override
     protected void convert(BaseViewHolder helper, WechatItem.ResultBean.ListBean item) {
         helper.setText(R.id.title_news_item, item.getTitle())
@@ -51,7 +45,7 @@ public class DefaultStyleItemAdapter extends BaseQuickAdapter<WechatItem.ResultB
         if (!isNotLoad) {
             Glide.with(mContext)
                     .load(item.getThumbnails())
-                    .override(mImgWidth,mImgHeight)
+                    .override(mImgWidth, mImgHeight)
                     .placeholder(R.drawable.loading)
                     .error(R.drawable.errorview)
                     .crossFade(1000)

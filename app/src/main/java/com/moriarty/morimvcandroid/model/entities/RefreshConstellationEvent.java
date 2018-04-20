@@ -1,11 +1,6 @@
 package com.moriarty.morimvcandroid.model.entities;
 
-/*******************************************************************
- *    * * * *   * * * *   *     *       Created by OCN.Yang
- *    *     *   *         * *   *       Time:2017/3/21 10:38.
- *    *     *   *         *   * *       Email address:ocnyang@gmail.com
- *    * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
+
 
 
 public class RefreshConstellationEvent {

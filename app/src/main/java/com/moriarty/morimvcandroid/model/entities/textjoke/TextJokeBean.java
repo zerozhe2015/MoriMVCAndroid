@@ -2,12 +2,6 @@ package com.moriarty.morimvcandroid.model.entities.textjoke;
 
 import com.chad.library.adapter.base.entity.MultiItemEntity;
 
-/*******************************************************************
- *    * * * *   * * * *   *     *       Created by OCN.Yang
- *    *     *   *         * *   *       Time:2017/3/13 13:35.
- *    *     *   *         *   * *       Email address:ocnyang@gmail.com
- *    * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
 
 
 public class TextJokeBean implements MultiItemEntity {

@@ -1,12 +1,5 @@
 package com.moriarty.morimvcandroid.model.entities;
 
-/*******************************************************************
- * * * * *   * * * *   *     *       Created by OCN.Yang
- * *     *   *         * *   *       Time:2017/2/24 09:35.
- * *     *   *         *   * *       Email address:ocnyang@gmail.com
- * * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
-
 
 public class RefreshNewsFragmentEvent {
     private int mark_code;

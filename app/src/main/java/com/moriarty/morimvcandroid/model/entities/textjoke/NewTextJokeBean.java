@@ -2,12 +2,6 @@ package com.moriarty.morimvcandroid.model.entities.textjoke;
 
 import java.util.List;
 
-/*******************************************************************
- *    * * * *   * * * *   *     *       Created by OCN.Yang
- *    *     *   *         * *   *       Time:2017/3/13 13:37.
- *    *     *   *         *   * *       Email address:ocnyang@gmail.com
- *    * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
 
 
 public class NewTextJokeBean extends BaseJokeBean{

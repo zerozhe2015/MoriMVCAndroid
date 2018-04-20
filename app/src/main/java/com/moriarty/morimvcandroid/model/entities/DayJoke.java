@@ -2,13 +2,6 @@ package com.moriarty.morimvcandroid.model.entities;
 
 import java.util.List;
 
-/*******************************************************************
- * * * * *   * * * *   *     *       Created by OCN.Yang
- * *     *   *         * *   *       Time:2017/3/3 15:21.
- * *     *   *         *   * *       Email address:ocnyang@gmail.com
- * * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
-
 
 public class DayJoke extends JvHeBaseBean {
 

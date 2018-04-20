@@ -2,12 +2,6 @@ package com.moriarty.morimvcandroid.module.start;
 
 import android.os.Handler;
 
-/*************************************************************
- * Created by OCN.Yang           * * * *   * * * *   *     * *
- * Time:2016/10/11 17:56         *     *   *         * *   * *
- * Email address:yangocn@163.com *     *   *         *   * * *
- * Web site:www.ocnyang.com      * * * *   * * * *   *     * *
- *************************************************************/
 
 
 public class SplashInteractorImpl implements SplashInteractor{

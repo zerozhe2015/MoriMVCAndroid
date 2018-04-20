@@ -1,11 +1,5 @@
 package com.moriarty.morimvcandroid.model.entities.constellation;
 
-/*******************************************************************
- *    * * * *   * * * *   *     *       Created by OCN.Yang
- *    *     *   *         * *   *       Time:2017/3/20 11:23.
- *    *     *   *         *   * *       Email address:ocnyang@gmail.com
- *    * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
 
 
 public class WeekConstellation extends BaseConstellation{

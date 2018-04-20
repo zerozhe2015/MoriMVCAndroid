@@ -6,12 +6,6 @@ import android.database.sqlite.SQLiteDatabase;
 import com.moriarty.morimvcandroid.db.DaoMaster;
 
 
-/*******************************************************************
- * * * * *   * * * *   *     *       Created by OCN.Yang
- * *     *   *         * *   *       Time:2017/2/22 15:43.
- * *     *   *         *   * *       Email address:ocnyang@gmail.com
- * * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
 
 
 public class DBManager {

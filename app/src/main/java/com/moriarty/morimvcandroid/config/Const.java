@@ -1,11 +1,6 @@
 package com.moriarty.morimvcandroid.config;
 
-/*************************************************************
- * Created by OCN.Yang           * * * *   * * * *   *     * *
- * Time:2016/9/19 12:17.         *     *   *         * *   * *
- * Email address:yangocn@163.com *     *   *         *   * * *
- * Web site:www.ocnyang.com      * * * *   * * * *   *     * *
- *************************************************************/
+
 
 /**
  * 项目中用到的静态常量。

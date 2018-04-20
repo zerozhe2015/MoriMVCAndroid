@@ -9,6 +9,14 @@ import com.moriarty.morimvcandroid.base.BaseFragment;
 
 public class FindFragment extends BaseFragment implements View.OnClickListener {
 
+    public FindFragment() {
+    }
+
+    public static FindFragment newInstance() {
+        FindFragment fragment = new FindFragment();
+        return fragment;
+    }
+
     @Override
     public void onClick(View v) {
 

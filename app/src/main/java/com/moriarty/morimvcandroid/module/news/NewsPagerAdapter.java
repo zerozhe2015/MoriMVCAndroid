@@ -7,14 +7,6 @@ import android.support.v4.app.FragmentPagerAdapter;
 import java.util.List;
 
 
-/*******************************************************************
- * * * * *   * * * *   *     *       Created by OCN.Yang
- * *     *   *         * *   *       Time:2017/2/15 14:26.
- * *     *   *         *   * *       Email address:ocnyang@gmail.com
- * * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
-
-
 public class NewsPagerAdapter extends FragmentPagerAdapter {
     private List<Fragment> mFragmentList;
 
@@ -34,6 +26,6 @@ public class NewsPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public int getCount() {
-        return mFragmentList==null?0:mFragmentList.size();
+        return mFragmentList == null ? 0 : mFragmentList.size();
     }
 }

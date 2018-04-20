@@ -3,12 +3,6 @@ package com.moriarty.morimvcandroid.model.entities;
 import java.util.ArrayList;
 import java.util.List;
 
-/*******************************************************************
- *    * * * *   * * * *   *     *       Created by OCN.Yang
- *    *     *   *         * *   *       Time:2017/3/9 14:07.
- *    *     *   *         *   * *       Email address:ocnyang@gmail.com
- *    * * * *   * * * *   *     *.Yang  Web site:www.ocnyang.com
- *******************************************************************/
 
 
 public class LEDRecommendColorManager {

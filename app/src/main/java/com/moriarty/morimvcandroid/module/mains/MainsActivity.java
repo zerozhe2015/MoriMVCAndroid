@@ -20,6 +20,7 @@ import com.moriarty.morimvcandroid.model.entities.RefreshNewsFragmentEvent;
 import com.moriarty.morimvcandroid.module.find.FindFragment;
 import com.moriarty.morimvcandroid.module.me.MeFragment;
 import com.moriarty.morimvcandroid.module.news.NewsFragment;
+import com.moriarty.morimvcandroid.module.news_category.CategoryActivity;
 import com.moriarty.morimvcandroid.module.wechat.WechatFragment;
 import com.moriarty.morimvcandroid.update.AppUtils;
 import com.moriarty.morimvcandroid.update.UpdateChecker;
@@ -160,7 +161,7 @@ public class MainsActivity extends BaseCustomActivity {
         if (false == sMeMains.isSelected())
             sMeMains.setSelected(true);
         if (mMeFragment == null) {
-            //mMeFragment = MeFragment.newInstance();
+            mMeFragment = MeFragment.newInstance();
             addFragment(R.id.framelayout_mains, mMeFragment, ME_FRAGMENT);
         } else if (isRestart = true) {
             getFragmentTransaction().show(mMeFragment).commit();
@@ -175,7 +176,7 @@ public class MainsActivity extends BaseCustomActivity {
             sFindtravelMains.setSelected(true);
         }
         if (mFindFragment == null) {
-           // mFindFragment = FindFragment.newInstance("", "");
+            mFindFragment = FindFragment.newInstance();
             addFragment(R.id.framelayout_mains, mFindFragment, FIND_FRAGMENT);
         } else if (isRestart = true) {
             isRestart = false;
@@ -191,7 +192,7 @@ public class MainsActivity extends BaseCustomActivity {
             sCityfinderMains.setSelected(true);
         }
         if (mWechatFragment == null) {
-            //mWechatFragment = mWechatFragment.newInstance("", "");
+            mWechatFragment = mWechatFragment.newInstance();
             addFragment(R.id.framelayout_mains, mWechatFragment, WECHAT_FRAGMENT);
         } else if (isRestart = true) {
             isRestart = false;
@@ -279,7 +280,7 @@ public class MainsActivity extends BaseCustomActivity {
 
     @Subscribe(threadMode = ThreadMode.MAIN)
     public void OnRefreshNewsFragmentEvent(RefreshNewsFragmentEvent event) {
-        //startActivityForResult(new Intent(MainsActivity.this, CategoryActivity.class), event.getMark_code());
+        startActivityForResult(new Intent(MainsActivity.this, CategoryActivity.class), event.getMark_code());
     }
 
     @SuppressLint("RestrictedApi")
